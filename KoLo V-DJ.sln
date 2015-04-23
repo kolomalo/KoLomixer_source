@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{E6FDF86B-F3D1-11D4-8576-0002A516ECE8}") = "KoLo V-DJ", "KoLo V-DJ.vjsproj", "{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}.Debug.ActiveCfg = Debug|.NET
+		{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}.Debug.Build.0 = Debug|.NET
+		{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}.Release.ActiveCfg = Release|.NET
+		{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal

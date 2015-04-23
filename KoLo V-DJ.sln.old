@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "KoLo V-DJ", "KoLo V-DJ.vjp", "{F49C34D8-AE49-47CE-8DAA-2CA5015291A0}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {F49C34D8-AE49-47CE-8DAA-2CA5015291A0}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {F49C34D8-AE49-47CE-8DAA-2CA5015291A0}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
